@@ -1,145 +1,198 @@
-# **Role: Founding Sales Architect (Founding Team, Mirror Protocols)**
+> ⚠️ This is a **pre-funding, non-binding terms sheet** outlining a proposed working agreement between two founding team members of Mirror Protocols.  
+> It is published for transparency and to support alignment with future hires, investors, and partners. All binding legal agreements will be executed upon company registration.
 
-**Position:** Founding Sales Architect (Promotion path to Chief Revenue Officer)  
+---
+
+# **Founding Sales Architect Role & Terms Sheet**
+
+**Role:** Founding Sales Architect (Founding Team, Mirror Protocols)  
+**Position:** Sales Architect (Promotion path to Chief Revenue Officer)  
 **Location:** Remote-first (LATAM / Colombia / India preferred; open to global candidates)
 
 ---
 
-## **Compensation & Commitment**
+## **I. Compensation & Commitment**
 
-**Pre-funding (Equity-Only):**
+### **Pre-funding (Equity-Only):**
 
 - **10% equity** (4-year vest, 1-year cliff)
     
 - **20hr/week commitment** (unpaid)  
-    – GTM, analytics, onboarding logic, investor support
+    – GTM planning, analytics, onboarding logic, investor support
     
 
-**Post-funding (Full Compensation):**
+### **Post-funding (Full Compensation):**
 
 - **$4,000/month salary** (immediate, full-time)
     
 - **Raises to $7,000/month** at $1M ARR
     
-- **+5% equity upgrade** (total 15%) and **promotion to Chief Revenue Officer (CRO)** at $1M ARR milestone, assuming continued employment and effective team leadership
+- **+5% equity upgrade** at $1M ARR milestone (total 15%)
+    
+- **Promotion to Chief Revenue Officer (CRO)** at $1M ARR, based on delivery and team leadership
     
 - **Deferred Success Bonus:** $3,000 per month of employment, paid lump sum at $1M ARR (e.g., 12 mo = $36K)
     
 - **Personal Sales Bonus:** $10K per 100 clients personally onboarded
     
-- **Group Sales Bonus:** $10K per 500 clients, split among all sales reps
+- **Group Sales Bonus:** $10K per 500 clients closed, split among sales reps
     
-- **Uplift Compliance Bonus & Perks:** $500/mo (post–$1M ARR) for documented protocol compliance, **plus full-stack monthly supplement supply**
+- **Uplift Compliance Bonus:** $500/month (post–$1M ARR) for protocol compliance logs
     
-- **Commission:** Additional, performance-based, post–$1M ARR
+- **Supplement Perks:** Full-stack monthly supplement supply (post–$1M ARR)
     
-- **Option Pool Participation:** Eligible for upgrades as company scales
+- **Commission:** Performance-based, introduced post–$1M ARR
     
-
----
-
-## **Succession Path & Team Structure**
-
-**At $1M ARR milestone:**
-
-- **Promotion to CRO:** Sales Architect becomes Chief Revenue Officer with executive authority over sales, marketing, and analytics teams
-    
-- **Direct Reports (3):**
-    
-    - **Marketing Lead**
-        
-    - **Analytics Lead**
-        
-    - **Sales Lead**
-        
-- **Advancement for Team Leads:** Each eligible for **+1% equity upgrade** and a formal team-lead title upon meeting performance and tenure targets
-    
-- **Responsible for:** Building the sales org for next-stage scale, succession planning, and mentoring direct reports into team leadership roles
+- **Option Pool:** Eligible for future upgrades as the company scales
     
 
 ---
 
-## **Responsibilities**
+## **II. Responsibilities**
 
 ### **Pre-Funding (Equity-Only, 20hr/week):**
 
-- **Market & Competitor Analytics:**  
-    Map TAM/SAM/SOM, define customer archetypes, and conduct deep competitive research
+- **Market Analytics:** TAM/SAM/SOM breakdown, customer segmentation
     
-- **GTM & Sales System Design:**  
-    Develop CRM pipeline, KPIs, sales scripts, pricing, and customer personas
+- **Sales Infrastructure:** Build CRM logic, ICP flows, and demo/closing scripts
     
-- **Team Onboarding Logic:**  
-    Draft onboarding documentation, sub-role definitions, SOPs for immediate post-funding scale
+- **GTM Design:** Create pricing, funnel, onboarding & referral logic
     
-- **Initial Outreach & Validation:**  
-    ICP outreach, GTM refinement, and early feedback collection
+- **Team Onboarding Logic:** Define future sales/marketing/analytics roles, SOPs, KPIs
     
-- **Fundraising Support:**  
-    Present sales strategy in investor meetings, iterate investor/sales materials
+- **Investor Support:** Assist in pitch calls and prep sales material
     
 
-### **Post-Funding (Full-Time Compensation):**
+### **Post-Funding (Full-Time):**
 
-- **Sales Execution:**  
-    Personally lead sales for the first 50–100 clients (demo, close, negotiate, build trust)
+- **Direct Sales:** Personally close 50–100 clients during early MVP stage
     
-- **Team Building:**  
-    Hire and lead three direct reports (Marketing, Analytics, Sales Lead)  
-    Develop onboarding, SOPs, targets, and ongoing review systems for each  
-    Mentor direct reports toward team-leadership and +1% equity upgrades
+- **Org Buildout:** Hire and lead 3 direct reports (Marketing, Analytics, Sales Lead)
     
-- **Performance Tracking:**  
-    Deliver sales metrics, funnel analytics, and regular reporting to founder/investors
+- **Mentorship & Succession:** Groom team leads toward +1% equity upgrades
     
-- **Revenue Growth:**  
-    Optimize pipeline, expand into new verticals, and closely coordinate with Product and Community teams
+- **Funnel Optimization:** Lead revenue experiments, segmentation, vertical growth
     
-- **Culture & Compliance:**  
-    Champion a data-driven, audit-aligned, and protocol-compliant sales organization
+- **Performance Reporting:** Maintain transparent weekly metrics & client insights
+    
+- **Cultural Leadership:** Uphold integrity, audit trails, and cross-functional harmony
     
 
 ---
 
-## **Key Outcomes & Expectations**
+## **III. Milestones & Succession Path**
 
-- **Deliver market analytics, GTM plan, and onboarding playbooks within 60 days of funding**
+### **At $1M ARR milestone:**
+
+- **Promotion to CRO**
     
-- **Onboard and operationalize Marketing, Analytics, and Sales Rep sub-roles in Q1**
+- **+5% equity upgrade** (total 15%)
     
-- **Personally close first 50–100 clients by Q4 2025**
+- **Authority to oversee**:
     
-- **Achieve break-even (430 clients) by Q2 2026**
+    - Marketing Lead
+        
+    - Analytics Lead
+        
+    - Sales Lead
+        
+- **Each direct report** becomes eligible for:
     
-- **Drive sales to $1M ARR (830 clients), manage bonuses and performance reporting**
+    - **+1% equity** based on tenure & performance
+        
+    - **Formal team-lead title** (e.g., Head of Marketing)
+        
+
+---
+
+## **IV. Terms Sheet – [Name] & Mirror Protocols**
+
+**Date:** 07/23/2025  
+**Parties:**
+
+- Simon Martin ("Simon"), Founder, Mirror Protocols
     
-- **Foster an inclusive, high-integrity, and audit-driven sales culture**
+- [Sales Candidate Name] ("[Name]"), Sales Architect Candidate
+    
+
+### 1. Purpose:
+
+Outlines working agreement prior to registration/funding.
+
+### 2. Registration/Funding:
+
+- Company registration upon or shortly before first funding close
+    
+- Funds held in escrow or as founder advance pre-registration
+    
+
+### 3. Equity & Vesting:
+
+- 10% equity w/ 4-year vest, 1-year cliff
+    
+- +5% equity upgrade (total 15%) at $1M ARR
+    
+- Clawback: Unvested equity returned if departure before cliff or milestone fulfillment
+    
+
+### 4. IP & Confidentiality:
+
+- All pre-funding work product assigned to company at registration
+    
+- NDA in effect (both parties)
+    
+- No disclosure without written consent
+    
+
+### 5. Roles & Deliverables:
+
+- Simon: Vision, funding, hiring, cross-team coherence
+    
+- [Name]: Sales engine, team buildout, GTM strategy
+    
+- No public launch without secured funding
+    
+
+### 6. Financial:
+
+- No compensation pre-funding
+    
+- Payroll begins post-funding
+    
+
+### 7. Timeline:
+
+- 60-day pre-funding window
+    
+- Review/termination if funding delayed
+    
+
+### 8. Exit Conditions:
+
+- Either party may exit by written notice if core terms unmet
+    
+
+### 9. Weekly Check-Ins:
+
+- Written check-in every Friday (or as agreed)
+    
+
+### 10. Legal Status:
+
+- Not binding except IP/Confidentiality
+    
+- Full legal docs post-registration
+    
+- Both parties agree to negotiate in good faith
     
 
 ---
 
-## **Why Join Mirror Protocols?**
+## **Acknowledgment and Signature**
 
-- **Founding equity, deferred success bonus, and clear executive path**
-    
-- **Promotion to CRO at $1M ARR, with direct influence over team build and revenue trajectory**
-    
-- **Bonus-rich, performance-driven compensation with immediate full pay post-funding**
-    
-- **Mission-driven environment:** Democratize leverage and cognitive uplift at a global scale
-    
-- **Shape the sales engine and culture from the ground up**
-    
+By signing below, both parties affirm that they have read, understood, and agreed to the terms outlined in this document. This terms sheet is not a legally binding agreement, except for the provisions on intellectual property assignment and confidentiality, which are immediately effective. All other terms are statements of intent to be formalized upon company registration.
 
----
-
-## **Diversity & Inclusion**
-
-**Mirror Protocols is an equal opportunity employer.**  
-We celebrate diversity and are committed to creating an inclusive environment for all employees—regardless of race, gender, age, religion, sexual orientation, or background.  
-All ambitious, mission-aligned candidates are encouraged to apply.
-
----
-
-**To apply or request more details:**  
-mirroros.protocols@gmail.com
+| Name         | Title                     | Signature        | Date           |
+| ------------ | ------------------------- | ---------------- | -------------- |
+| Simon Martin | Founder, Mirror Protocols | ________________ | ______________ |
+| [Name]       | Founding Sales Architect  | ________________ | ______________ |
